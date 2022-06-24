@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ed8b90ea72624b6fe632771c160715a1",
+  "assets/AssetManifest.json": "ed561dfb70683b32fe4f9d262999b846",
 "assets/assets/fonts/circe/Circe-Bold.ttf": "22f16521a7d16c7f8342680cf30b46bd",
 "assets/assets/fonts/circe/Circe-Light.ttf": "9fd3216596f21252abbdbc053769134e",
 "assets/assets/fonts/circe/Circe-Thin.ttf": "8a6928dabfc92fdf4fa5fa4f53534cab",
@@ -16,16 +16,9 @@ const RESOURCES = {
 "assets/assets/images/deep_learning.jpg": "21f47d43e30dec43d1a62feda0eeda21",
 "assets/assets/images/Flutter_cred.png": "75e1391281a1cc46c429cd51b40edf01",
 "assets/assets/images/playstore.png": "18fab95d924ef304111a8efd2620c0a6",
-"assets/assets/screenshots/portfolio_1.gif": "18dd0909f3aba633013d389421334c87",
-"assets/assets/screenshots/portfolio_2.gif": "4196cf51f9316273f9ef7bfefc97d20b",
-"assets/assets/screenshots/portfolio_3.gif": "a485ce18b008accbc91075f7aa27e2e7",
-"assets/assets/screenshots/portfolio_design_1.png": "7d6b918c406123f221b50e48feea493f",
-"assets/assets/screenshots/portfolio_design_2.png": "711a86e370566ce01c1903db1aa4e794",
-"assets/assets/screenshots/portfolio_design_3.png": "f24dd0da7633fba80106b2865358a785",
-"assets/assets/screenshots/portfolio_mobile_1.gif": "6f5725083b4becfb8b77c2af45a7e165",
 "assets/FontManifest.json": "bdd5ce6f199dd9c206f745254bec9bfd",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "54ea4f8382eb7ae5423dfce8cb22a420",
+"assets/NOTICES": "e7c7719c0439eb60dc99abadf341d3a3",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_feather_icons/fonts/feather.ttf": "c96dc22ca29a082af83cce866d35cebc",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
@@ -38,10 +31,10 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/logo-subbu-1.png": "97af7951fbd1324ea184bbb374e1134b",
 "icons/logo-subbu-2.png": "13b4efff4f1c4ab95ecfa0cab156f59e",
-"index.html": "231f49d85f60f7d3d6197441a54d263c",
-"/": "231f49d85f60f7d3d6197441a54d263c",
-"main.dart.js": "d0aaca5d18cb620d70456d6790328888",
-"manifest.json": "13122bfafd53ff99163a51600157c2fe",
+"index.html": "6cd9df4a294299b2587171c61301c2cf",
+"/": "6cd9df4a294299b2587171c61301c2cf",
+"main.dart.js": "031f6411259aa3cc59d604f650ba5522",
+"manifest.json": "5a054c17a91771a1b7b47d659ce531b0",
 "version.json": "2acd6787bab7012cf4fc8022abef81a9"
 };
 
