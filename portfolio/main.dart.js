@@ -60154,7 +60154,7 @@ m=m.a
 m=l.N(0,m.gq(m))
 l=A.Co(a)
 k=f.d
-return A.dE(B.V,A.b([r,A.aiG(A.ns(B.L,l?A.S(e,e,B.j,e,e,e,e,e,e,e,e,e,e,k):A.S(e,A.j7("images/anand_subbu.png",B.bb,c,e,k),B.j,e,e,e,e,e,e,e,e,e,e,e),e,e,m),new A.v(q-p/2,s))],n),B.a_)},
+return A.dE(B.V,A.b([r,A.aiG(A.ns(B.L,l?A.S(e,e,B.j,e,e,e,e,e,e,e,e,e,e,k):A.S(e,A.j7("assets/images/anand_subbu.png",B.bb,c,e,k),B.j,e,e,e,e,e,e,e,e,e,e,e),e,e,m),new A.v(q-p/2,s))],n),B.a_)},
 C(a,b){var s=null
 return A.dW(s,s,A.S(s,A.d5(A.a(this.e,"_controller"),this.gRl(),s),B.j,s,s,s,s,s,s,s,s,s,s,s),s,!1,s)}}
 A.a4o.prototype={
@@ -60295,7 +60295,7 @@ r=t.p
 s=A.cV(A.my(A.b([j,i,k,new A.ex(p),s],r),p,new A.ak(24,24,0,0),!1),B.r,p)
 k=q.y?q.TI():A.S(p,p,B.j,p,p,p,p,p,p,p,p,p,p,p)
 return A.dW(new A.js(m,new A.D(1/0,56),p),p,A.dE(B.V,A.b([s,k,new A.tZ(p)],r),B.a_),l,!0,q.d)},
-TI(){return A.d5(A.a(this.e,"_controller"),new A.a4t(this),A.j7("images/anand_subbu.png",B.uY,this.c.G(t.w).f.a.b,null,null))},
+TI(){return A.d5(A.a(this.e,"_controller"),new A.a4t(this),A.j7("assets/images/anand_subbu.png",B.uY,this.c.G(t.w).f.a.b,null,null))},
 TH(){var s,r=null,q=this.c
 q.toString
 s=A.ai(q)
@@ -60536,7 +60536,7 @@ A.pc.prototype={
 a4(){return new A.Lf(B.n)}}
 A.Lf.prototype={
 Uh(){var s=null,r=new A.ah($.ag,t.NT)
-new A.of("images/anand_subbu.png",s,s).aa(new A.mi(s,s,s,s,s,s)).ah(0,new A.fr(new A.a6L(new A.aH(r,t.uQ)),s,s))
+new A.of("assets/images/anand_subbu.png",s,s).aa(new A.mi(s,s,s,s,s,s)).ah(0,new A.fr(new A.a6L(new A.aH(r,t.uQ)),s,s))
 return r},
 C(a,b){var s,r,q,p=null,o=A.ai(b),n=A.aE(b,0.4,0),m=A.aE(b,0.5,0)
 m=A.cV(A.S(p,new A.hY($.eE(),"/",p),B.j,p,p,p,p,p,p,new A.ak(20,20,0,20),p,p,p,p),B.q,m)
@@ -60547,7 +60547,7 @@ s=A.S(p,A.bo(A.b([A.bq(A.b([m,A.cV(A.re(A.bq(A.b([A.b4("Send me a message",p,p,r
 if(A.akN(b))m=new A.p5(this.Uh(),new A.a6O(this),p,t.Bh)
 else{m=A.cz(b,0.05)
 r=A.aE(b,0.5,0)
-m=A.f0(p,A.S(p,A.j7("images/anand_subbu.png",B.bb,A.cz(b,1),2,n),B.j,p,p,p,p,p,p,p,p,p,p,p),p,p,r-n/2,p,m,p)}return A.S(p,A.dE(B.V,A.b([s,m],q),B.a_),B.j,p,p,p,p,p,p,p,p,p,p,p)}}
+m=A.f0(p,A.S(p,A.j7("assets/images/anand_subbu.png",B.bb,A.cz(b,1),2,n),B.j,p,p,p,p,p,p,p,p,p,p,p),p,p,r-n/2,p,m,p)}return A.S(p,A.dE(B.V,A.b([s,m],q),B.a_),B.j,p,p,p,p,p,p,p,p,p,p,p)}}
 A.a6L.prototype={
 $2(a,b){this.a.cv(0,a.a)},
 $S:125}
@@ -60563,7 +60563,7 @@ if(o!=null){s=A.cz(a,0)
 r=A.aE(a,0.5,0)
 q=o.gaV(o)
 o=o.gaV(o)
-return A.f0(p,A.S(p,A.j7("images/anand_subbu.png",B.bb,A.cz(a,1),1,o+100),B.j,p,p,p,p,p,p,p,p,p,p,p),p,p,r-(q+100)/2,p,s,p)}else return A.b4("Loading...",p,p,p,p,p)},
+return A.f0(p,A.S(p,A.j7("assets/images/anand_subbu.png",B.bb,A.cz(a,1),1,o+100),B.j,p,p,p,p,p,p,p,p,p,p,p),p,p,r-(q+100)/2,p,s,p)}else return A.b4("Loading...",p,p,p,p,p)},
 $S:361}
 A.vo.prototype={
 a4(){return new A.Lg(new A.aV(null,t.sW),B.n)}}
@@ -60578,7 +60578,7 @@ s.toString
 s=A.aE(s,0.42,0)
 r=q.c
 r.toString
-return A.dW(p,p,A.S(p,A.dE(B.V,A.b([l,m,A.f0(p,A.S(p,A.j7("images/anand_subbu.png",B.kP,A.cz(r,1),p,p),B.j,p,p,p,p,p,p,p,p,p,p,p),p,p,p,-s,56,p),A.f0(30,new A.qQ(!0,B.r,B.r,B.kE,B.eI,p),p,p,p,16,p,p)],k),B.a_),B.j,p,p,p,p,p,p,p,p,p,p,p),n,!1,q.d)},
+return A.dW(p,p,A.S(p,A.dE(B.V,A.b([l,m,A.f0(p,A.S(p,A.j7("assets/images/anand_subbu.png",B.kP,A.cz(r,1),p,p),B.j,p,p,p,p,p,p,p,p,p,p,p),p,p,p,-s,56,p),A.f0(30,new A.qQ(!0,B.r,B.r,B.kE,B.eI,p),p,p,p,16,p,p)],k),B.a_),B.j,p,p,p,p,p,p,p,p,p,p,p),n,!1,q.d)},
 RW(){var s=null
 return A.S(s,A.bq(A.b([A.Vy(B.L,s,A.d9(B.f0,s,s),s,new A.a6P(this),B.eS,s),A.lL(A.dA(!1,s,!0,A.d9(B.f_,B.r,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a6Q(),s,s,s),B.q,40,40)],t.p),B.t,B.r8,B.o),B.j,s,s,s,s,s,s,s,new A.ak(16,16,16,16),s,s,s)}}
 A.a6R.prototype={
@@ -60686,7 +60686,7 @@ n=n.a
 n=m.N(0,n.gq(n))
 m=A.Co(a)
 l=k.d
-return A.dE(B.V,A.b([r,A.aiG(A.ns(B.L,m?A.S(j,j,B.j,j,j,j,j,j,j,j,j,j,j,l):A.S(j,A.j7("images/anand_subbu.png",B.bb,i,j,l),B.j,j,j,j,j,j,j,j,j,j,j,j),j,j,n),new A.v(q-s/2,o))],p),B.a_)},
+return A.dE(B.V,A.b([r,A.aiG(A.ns(B.L,m?A.S(j,j,B.j,j,j,j,j,j,j,j,j,j,j,l):A.S(j,A.j7("assets/images/anand_subbu.png",B.bb,i,j,l),B.j,j,j,j,j,j,j,j,j,j,j,j),j,j,n),new A.v(q-s/2,o))],p),B.a_)},
 C(a,b){var s=null
 return A.dW(s,s,A.S(s,A.d5(A.a(this.e,"_controller"),this.gWR(),s),B.j,s,s,s,s,s,s,s,s,s,s,s),s,!1,s)},
 ZX(){var s,r,q=this,p=null,o=q.d
@@ -61447,7 +61447,7 @@ $0(){A.ha(this.a,!1).yJ(0,null)},
 $S:0}
 A.QV.prototype={
 $0(){var s=this.a[this.b],r=s.a
-if(r==="Resume")A.bU("assets/docs/Anand_AL_CV.pdf")
+if(r==="Resume")A.bU("assets/assets/docs/Anand_AL_CV.pdf")
 else if(r==="Contact")A.bU(u.F)
 else A.ha(this.c,!1).yP(s.b,t.X)},
 $S:0}
@@ -61724,7 +61724,7 @@ o.push(new A.pH(q.a,p,!1,new A.Xr(b,r,a),null))
 o.push(new A.jE(null))}return o}}
 A.Xr.prototype={
 $0(){var s=this.a[this.b],r=s.a
-if(r==="Resume")A.bU("assets/docs/Anand_AL_CV.pdf")
+if(r==="Resume")A.bU("assets/assets/docs/Anand_AL_CV.pdf")
 else if(r==="Contact")A.bU(u.F)
 else A.ha(this.c,!1).yP(s.b,t.X)},
 $S:0}
@@ -62056,22 +62056,22 @@ A.EK.prototype={}
 A.Im.prototype={}
 A.qX.prototype={}
 A.VJ.prototype={
-$1(a){return"images/project/exp_gen/"+a},
+$1(a){return"assets/images/project/exp_gen/"+a},
 $S:11}
 A.VH.prototype={
-$1(a){return"images/project/app_direct/"+a},
+$1(a){return"assets/images/project/app_direct/"+a},
 $S:11}
 A.VK.prototype={
-$1(a){return"images/project/ledger_app/"+a},
+$1(a){return"assets/images/project/ledger_app/"+a},
 $S:11}
 A.VM.prototype={
-$1(a){return"images/project/product_catalog/"+a},
+$1(a){return"assets/images/project/product_catalog/"+a},
 $S:11}
 A.VL.prototype={
-$1(a){return"images/project/pawn_shop/"+a},
+$1(a){return"assets/images/project/pawn_shop/"+a},
 $S:11}
 A.VI.prototype={
-$1(a){return"images/project/billing_app/"+a},
+$1(a){return"assets/images/project/billing_app/"+a},
 $S:11}
 A.Fz.prototype={
 h(a){return"LaunchMode."+this.b}}
@@ -67270,12 +67270,12 @@ return A.b([A.G3("\u0b8e\u0baa\u0bcd\u0baa\u0bca\u0bb4\u0bc1\u0ba4\u0bc1\u0bae\u
 r($,"az6","eE",()=>A.b([A.pG("/","Home"),A.pG("/about","About Me"),A.pG("/portfolio","Portfolio"),A.pG("/My_Fav_Quote","My Fav Quote"),A.pG("/experience","Experience"),A.pG("Resume","Resume"),A.pG("/certifications","Certifications")],A.Z("q<FX>")))
 r($,"az8","af1",()=>A.b([A.jA(95,"Flutter"),A.jA(80,"Dart"),A.jA(75,"Android"),A.jA(80,"Python"),A.jA(50,"Java"),A.jA(70,"Wordpress"),A.jA(60,"Adobe XD"),A.jA(70,"Firebase"),A.jA(40,"Power BI"),A.jA(60,"Tabealu")],A.Z("q<Im>")))
 r($,"az9","alq",()=>A.b([A.aiv(null,!0,!0,$.af1(),"KEY SKILLS"),A.aiv("I am self taught programmer who graduated from K.Ramakrishnan Collage of Engineering with a degree in Mechanical Engineering. I love learning and writing computer programs.",!1,!1,null,"EDUCATION")],A.Z("q<qX>")))
-r($,"az7","Q6",()=>{var q,p="images/project/exp_gen/dash.jpg",o=t.s,n=A.pZ(!0,"images/project/billing_app/desktop/dash.png",0.3,$.alB(),!0,!1,"","GST Invoice App is the Accounting & Inventory Software which gives you 100% control on your business.\nMultiple user supported - Owner Login, Sales rep Login, Money Collector Login...\nDue to easiness, flexibility, self-customization options and time to time up-gradations are the major reasons behind its success.\nTrack Your Sales/Purchase/GST/Party Transaction Report Handy\n","GST Invoice Billing Management Application for Distribution",A.b(["Flutter","Firebase","Google-api"],o),"GST Invoice App",""),m=A.b(["Flutter"],o)
-m=A.pZ(!0,"images/project/product_catalog/prod_detail.jpg",0.2,$.alF(),!0,!0,"https://play.google.com/store/apps/details?id=com.subbu.productcatalogue","Product E-Catalogue [10k+ Downloads/500+ Daily Active users] is a mobile application that lets you showcase your products! The app does not require internet connectivity and stored all the information on your mobile.\nCarry your product catalogue along with you.\n\nSupports 6 Different Product Catalogue Template which help to generate beautiful Catalog PDF","Product Catalog helps to keep Product Data Handy",m,"Product Catalog [10k+]","")
+r($,"az7","Q6",()=>{var q,p="assets/images/project/exp_gen/dash.jpg",o=t.s,n=A.pZ(!0,"assets/images/project/billing_app/desktop/dash.png",0.3,$.alB(),!0,!1,"","GST Invoice App is the Accounting & Inventory Software which gives you 100% control on your business.\nMultiple user supported - Owner Login, Sales rep Login, Money Collector Login...\nDue to easiness, flexibility, self-customization options and time to time up-gradations are the major reasons behind its success.\nTrack Your Sales/Purchase/GST/Party Transaction Report Handy\n","GST Invoice Billing Management Application for Distribution",A.b(["Flutter","Firebase","Google-api"],o),"GST Invoice App",""),m=A.b(["Flutter"],o)
+m=A.pZ(!0,"assets/images/project/product_catalog/prod_detail.jpg",0.2,$.alF(),!0,!0,"https://play.google.com/store/apps/details?id=com.subbu.productcatalogue","Product E-Catalogue [10k+ Downloads/500+ Daily Active users] is a mobile application that lets you showcase your products! The app does not require internet connectivity and stored all the information on your mobile.\nCarry your product catalogue along with you.\n\nSupports 6 Different Product Catalogue Template which help to generate beautiful Catalog PDF","Product Catalog helps to keep Product Data Handy",m,"Product Catalog [10k+]","")
 q=A.b(["Flutter"],o)
-return A.b([n,m,A.pZ(!0,"images/project/app_direct/dash.jpg",0.2,$.alA(),!0,!1,"https://play.google.com/store/apps/details?id=com.subbu.app_direct","This app helps user to open whats app account that they need to send message with mobile number. no need to save contact","Send Direct Whats App Msg without saving contace",q,"Direct Whats App Msg",""),A.pZ(!0,"images/project/pawn_shop/desktop/dash.png",0.3,$.alE(),!0,!1,"","With the help of this app user can track Customers Ticket Details. Also user can generate report","Pawn Ledger App is a Management App for Pawn Shop",A.b(["Flutter","Firebase","Google-api"],o),"Pawn Ledger App",""),A.pZ(!0,"images/project/ledger_app/dash.jpg",0.15,$.alD(),!1,!0,"https://play.google.com/store/apps/details?id=com.subbu.ledgerbookapp","Ledger account book cum bookkeeping app, which helps to manage your customer's Credit and Debit entries including Cheque Entries, compared to traditional ways of maintaining physical book/papers.","Credit Debit Bookkeeping Ledger App",A.b(["Flutter"],o),"Ledger App",""),A.pZ(!0,p,0.15,B.bl,!0,!0,u.d,"Helps me To Showcase my Professional Details to this world","This is my web portfolio developed with Flutter",A.b(["Flutter"],o),"PortFolio",""),A.pZ(!0,p,0.15,$.alC(),!0,!0,"https://play.google.com/store/apps/details?id=com.subbu.expence_generator","User can able to generate their expence in a second based on some conditions that they need.\nThey can name and modify the report based on their need","This App Help user to generate their expence",A.b(["Flutter"],o),"Expence Generator","")],A.Z("q<H5>"))})
+return A.b([n,m,A.pZ(!0,"assets/images/project/app_direct/dash.jpg",0.2,$.alA(),!0,!1,"https://play.google.com/store/apps/details?id=com.subbu.app_direct","This app helps user to open whats app account that they need to send message with mobile number. no need to save contact","Send Direct Whats App Msg without saving contace",q,"Direct Whats App Msg",""),A.pZ(!0,"assets/images/project/pawn_shop/desktop/dash.png",0.3,$.alE(),!0,!1,"","With the help of this app user can track Customers Ticket Details. Also user can generate report","Pawn Ledger App is a Management App for Pawn Shop",A.b(["Flutter","Firebase","Google-api"],o),"Pawn Ledger App",""),A.pZ(!0,"assets/images/project/ledger_app/dash.jpg",0.15,$.alD(),!1,!0,"https://play.google.com/store/apps/details?id=com.subbu.ledgerbookapp","Ledger account book cum bookkeeping app, which helps to manage your customer's Credit and Debit entries including Cheque Entries, compared to traditional ways of maintaining physical book/papers.","Credit Debit Bookkeeping Ledger App",A.b(["Flutter"],o),"Ledger App",""),A.pZ(!0,p,0.15,B.bl,!0,!0,u.d,"Helps me To Showcase my Professional Details to this world","This is my web portfolio developed with Flutter",A.b(["Flutter"],o),"PortFolio",""),A.pZ(!0,p,0.15,$.alC(),!0,!0,"https://play.google.com/store/apps/details?id=com.subbu.expence_generator","User can able to generate their expence in a second based on some conditions that they need.\nThey can name and modify the report based on their need","This App Help user to generate their expence",A.b(["Flutter"],o),"Expence Generator","")],A.Z("q<H5>"))})
 r($,"az4","Q5",()=>{var q="Data Science Specilization",p="Coursera"
-return A.b([A.RM(p,"images/data_science_spec.jpg",0.3,q,"https://coursera.org/share/5aab9849eb1b370dfdb2468b5fc8c7e6"),A.RM("Google","images/Flutter_cred.png",0.3,"Flutter Developer","https://drive.google.com/file/d/1QuTKL9CtHg9I68qwIDtic2inKW9Q4XIM/view"),A.RM("Board Infinity","images/bord_infinity.png",0.3,q,"https://drive.google.com/file/d/1r4G_1k8zfHRTCUAFEtlnT0ptIZUlrEId/view"),A.RM(p,"images/deep_learning.jpg",0.3,"Data Scienct Machine Learning","https://www.coursera.org/account/accomplishments/certificate/LR3TAEZHQYBC")],A.Z("q<Dg>"))})
+return A.b([A.RM(p,"assets/images/data_science_spec.jpg",0.27,q,"https://coursera.org/share/5aab9849eb1b370dfdb2468b5fc8c7e6"),A.RM("Google","assets/images/Flutter_cred.png",0.27,"Flutter Developer","https://drive.google.com/file/d/1QuTKL9CtHg9I68qwIDtic2inKW9Q4XIM/view"),A.RM("Board Infinity","assets/images/bord_infinity.png",0.27,q,"https://drive.google.com/file/d/1r4G_1k8zfHRTCUAFEtlnT0ptIZUlrEId/view"),A.RM(p,"assets/images/deep_learning.jpg",0.27,"Data Scienct Machine Learning","https://www.coursera.org/account/accomplishments/certificate/LR3TAEZHQYBC")],A.Z("q<Dg>"))})
 r($,"az5","acf",()=>{var q="Chennai - TamilNadu",p=t.s
 return A.b([A.TX("Neosoft Technology","https://www.neosofttech.com/","April 2022 - Current",q,"Senior Software Engineer",A.b(["Working closely with client in Android, IOS & Web application development","Flutter Plugin & Package Development","Worked with a client aliong with team to build a management system for the POS Application","Interfaced with clients on a weekly basis, providing technological expertise\nModified existing software to correct errors, upgrade interfaces and improve performance"],p)),A.TX("Freelancer - App Developer",u.d,"Dec 2020 - April 2022","Mannargudi - TaminNadu","Flutter Developer",A.b(["Work collaboratively with a user experience designer to bring mobile and progressive apps to life using Flutter.","Developed and maintaaining ERP Application for the FMCG Distribution and Ledger Application for the Pawn Shop in India","Developed around 5+ android app from scratch to fulfill client need","Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Desktop and mobile applications with FLutter Framework"],p)),A.TX("Teknuance Info Tech","https://teknuance.com/","Jan 2020 - Sep 2020",q,"Technical Business Analyst",A.b(["Building Wireframe using Adobe XD & Draw.io and these where the great tool to explain to technical team","Documentation on NLP about data cleaning, data representation & some basic ML Algorithm","Developed highly interactive mobile applications for Vodafone Ghana using Java Android","Developed and maintained code for NLP & Ml using Python"],p)),A.TX("Subbu Agency","https://subbuagency.business.site/","June 2019 - Jan 2020","Mannargudi - TamilNadu","Assistance Executive",A.b(["Sales & Purchase for FMCG Distribution","Instruct & coordinate an organization's financial or budget activities to fund operations, maximize investments, or increase efficiency.","Analyze operations to evaluate the performance of a company or its staff in meeting objectives or to determine areas of potential cost reduction, program improvement, or policy change."],p))],A.Z("q<EK>"))})
 r($,"azy","alC",()=>B.b.dU(A.b(["dash.jpg","module.jpg"],t.s),new A.VJ(),t.N).cU(0))
