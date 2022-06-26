@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b16252f3ba40784ccec54ef21d9152e4",
+  "assets/AssetManifest.json": "4a8f0aa6b69afdf989df2926c32d5950",
 "assets/assets/docs/Anand_AL_CV.pdf": "e9d9c634e13ee3c0d358391ffa8f93bc",
 "assets/assets/fonts/circe/Circe-Bold.ttf": "22f16521a7d16c7f8342680cf30b46bd",
 "assets/assets/fonts/circe/Circe-Light.ttf": "9fd3216596f21252abbdbc053769134e",
@@ -11,8 +11,8 @@ const RESOURCES = {
 "assets/assets/fonts/proxima_nova/ProximaNova-Bold.otf": "62d4d7d369292a9bf23762465ec6d704",
 "assets/assets/fonts/proxima_nova/ProximaNova-Regular.otf": "410504d49238e955ba7dc23a7f963021",
 "assets/assets/fonts/proxima_nova/ProximaNova-Thin.otf": "8f0bc01ce5e5becef482d277cb72b728",
-"assets/assets/images/anand_subbu.png": "0c4e0344582c07f8da45da4766431ec4",
-"assets/assets/images/anand_subbu_92.png": "af15d0152635a1bf73c1d54d9e3143bc",
+"assets/assets/images/anand_subbu.png": "af15d0152635a1bf73c1d54d9e3143bc",
+"assets/assets/images/anand_subbu_2.png": "0c4e0344582c07f8da45da4766431ec4",
 "assets/assets/images/bord_infinity.png": "f6ebd25bd67f556984cbb62f306c1203",
 "assets/assets/images/data_science_spec.jpg": "699c03fc5ed2b81403b59cabe03139e4",
 "assets/assets/images/deep_learning.jpg": "21f47d43e30dec43d1a62feda0eeda21",
@@ -83,9 +83,9 @@ const RESOURCES = {
 "icons/logo-512.png": "6452466ecd0b39a157a8d08513fa2f2c",
 "icons/logo_2-192.png": "c8546a6439017a9fd7ee754afa885376",
 "icons/logo_2-512.png": "b8a51b668b2d913897df6b8f94cfdd3b",
-"index.html": "4acc235260a978e33d9489286d692cf9",
-"/": "4acc235260a978e33d9489286d692cf9",
-"main.dart.js": "9966b1e4e2a7d6b0d7cb5cbf407cbacd",
+"index.html": "dc4d7a2a938bedd7b7912e95760c5abf",
+"/": "dc4d7a2a938bedd7b7912e95760c5abf",
+"main.dart.js": "0e3645b3ff5f7f37b60dbb3fd4f3bd2f",
 "manifest.json": "34f944bf6b2b8703b0f7455c9899d1b6",
 "version.json": "2acd6787bab7012cf4fc8022abef81a9"
 };
