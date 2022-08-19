@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "4a8f0aa6b69afdf989df2926c32d5950",
-"assets/assets/docs/Anand_AL_CV.pdf": "e9d9c634e13ee3c0d358391ffa8f93bc",
+  "assets/AssetManifest.json": "59cdd06b6f26c7262f29ada4361349e1",
+"assets/assets/docs/Anand_AL_CV.pdf": "8e89e0df7984b18f83e4f59ef13ddde6",
+"assets/assets/docs/Anand_AL_CV_old.pdf": "e9d9c634e13ee3c0d358391ffa8f93bc",
 "assets/assets/fonts/circe/Circe-Bold.ttf": "22f16521a7d16c7f8342680cf30b46bd",
 "assets/assets/fonts/circe/Circe-Light.ttf": "9fd3216596f21252abbdbc053769134e",
 "assets/assets/fonts/circe/Circe-Thin.ttf": "8a6928dabfc92fdf4fa5fa4f53534cab",
@@ -83,9 +84,9 @@ const RESOURCES = {
 "icons/logo-512.png": "6452466ecd0b39a157a8d08513fa2f2c",
 "icons/logo_2-192.png": "c8546a6439017a9fd7ee754afa885376",
 "icons/logo_2-512.png": "b8a51b668b2d913897df6b8f94cfdd3b",
-"index.html": "f4380f19d90d24fe2692b7699ee9fa04",
-"/": "f4380f19d90d24fe2692b7699ee9fa04",
-"main.dart.js": "25875bb072f8ad6ac7925242ccf0d631",
+"index.html": "fa836b88c638e5f819608f01f7fe9729",
+"/": "fa836b88c638e5f819608f01f7fe9729",
+"main.dart.js": "7bdc2fe0d60a720e1a104ed2faf6f82a",
 "manifest.json": "34f944bf6b2b8703b0f7455c9899d1b6",
 "version.json": "2acd6787bab7012cf4fc8022abef81a9"
 };
