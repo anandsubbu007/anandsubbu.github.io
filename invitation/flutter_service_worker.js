@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "41f1f042af8c9fc6220ddf5238432eec",
-"assets/AssetManifest.bin.json": "d227dae9b83dbc59c8b414ccc074c1fb",
-"assets/AssetManifest.json": "a7d47a36f59eaaaa55aa9e61b24e07cd",
+const RESOURCES = {"assets/AssetManifest.bin": "cf13a84b32339bc1b4d7e76584e509e3",
+"assets/AssetManifest.bin.json": "cb813e269f29c068bba9b4ad4301ddd6",
+"assets/AssetManifest.json": "4df699054ab31bc71bd7b98ce6c9483f",
 "assets/assets/images/preloader.gif": "ddc0fc6b16643b927c66233a879099ad",
+"assets/assets/images/pre_loader.gif": "0b50bbd9be9fa9767dd6302aad80457a",
 "assets/assets/images/reception_card.png": "fc7011dff4517eeecb215595fc622a1b",
 "assets/assets/images/weeding_card.png": "72e2d8d6591ae24d9e8e5a69509368c2",
 "assets/assets/video/Red_Reception_Invitation.mp4": "7a1060cf9961bd91c34293e524f6b3f1",
@@ -29,9 +30,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "41f1f042af8c9fc6220ddf5238432eec
 "icons/Icon-512.png": "fc1f81053275d65408bca084c8fe772d",
 "icons/Icon-maskable-192.png": "421330477a03e157f7543286c012e21e",
 "icons/Icon-maskable-512.png": "fc1f81053275d65408bca084c8fe772d",
-"index.html": "7831575ec67a8e38a7af7d284894b5a6",
-"/": "7831575ec67a8e38a7af7d284894b5a6",
-"main.dart.js": "d1671aa663e4745352a1be0fd47d9f4c",
+"index.html": "665446fb6ff3934228ed94ec5a6f7595",
+"/": "665446fb6ff3934228ed94ec5a6f7595",
+"main.dart.js": "cf92af3a74238c139625af61886e0079",
 "manifest.json": "f9921353df2177922f5f694d53248867",
 "version.json": "2aa3c57100564158890f8d71e4f523a9"};
 // The application shell files that are downloaded before a service worker can
