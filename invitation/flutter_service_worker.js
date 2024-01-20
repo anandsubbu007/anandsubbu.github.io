@@ -3,9 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "cce083a432125ff4c6979cfebd116d88",
-"assets/AssetManifest.bin.json": "e6aa80ac45f73f68eec73aaf79ac6542",
-"assets/AssetManifest.json": "cacdc310cfac63a4a21eba766f22f445",
+const RESOURCES = {"assets/AssetManifest.bin": "1f5d04b503aec297ec1c8b8afad00c2f",
+"assets/AssetManifest.bin.json": "fd5bc3d102b33e6c0b6b52161b0fd6cc",
+"assets/AssetManifest.json": "c97aeaf25a8eeedc3c637458b0114681",
+"assets/assets/images/google_location.png": "1b52866bb401f85c8cb7a71e0bd21e05",
+"assets/assets/images/happy.gif": "59217fae638bd6b0f45f9af7cda3055e",
 "assets/assets/images/pre_loader.gif": "0b50bbd9be9fa9767dd6302aad80457a",
 "assets/assets/images/reception_card.png": "fc7011dff4517eeecb215595fc622a1b",
 "assets/assets/images/Red_Wedding_Invitation.gif": "c2c0390bb2ab4ae6b9c24d66a0c63133",
@@ -13,8 +15,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "cce083a432125ff4c6979cfebd116d88
 "assets/assets/video/Red_Reception_Invitation.mp4": "7a1060cf9961bd91c34293e524f6b3f1",
 "assets/assets/video/Red_Wedding_Invitation.mp4": "92d65a4052ffdab98a9e5b93a72f6e99",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "b3a0f841215268fa6ff0a4c615503356",
-"assets/NOTICES": "4592ef87ec1ff162e00088e64d3bd5f3",
+"assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
+"assets/NOTICES": "9b2b8ad789c863e98d065c65c5b94dcb",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
@@ -30,11 +32,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "cce083a432125ff4c6979cfebd116d88
 "icons/Icon-512.png": "fc1f81053275d65408bca084c8fe772d",
 "icons/Icon-maskable-192.png": "421330477a03e157f7543286c012e21e",
 "icons/Icon-maskable-512.png": "fc1f81053275d65408bca084c8fe772d",
-"index.html": "a46f82fc7ffbace8168fce99fc45fd65",
-"/": "a46f82fc7ffbace8168fce99fc45fd65",
-"main.dart.js": "ff500907c61fa2a922edab54e9d1ed72",
+"index.html": "ef67c877278ce3464e703fd7b71793d0",
+"/": "ef67c877278ce3464e703fd7b71793d0",
+"main.dart.js": "f72da7e502e119af4c127c2abc1f3972",
 "manifest.json": "f9921353df2177922f5f694d53248867",
-"version.json": "2aa3c57100564158890f8d71e4f523a9"};
+"version.json": "4faa8eb89d6ae5adb72b666e349d8d00"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
