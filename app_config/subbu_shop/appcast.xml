@@ -6,7 +6,7 @@
             <title>Version 1.2.0</title>
             <description>desc</description>
             <pubDate>Tue, 08 Sep 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.subbu.seller" sparkle:version="1.0.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.subbu.seller" sparkle:version="1.2.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
